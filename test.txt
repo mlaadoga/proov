@@ -1,2 +1,2 @@
 testin githubi
-proov 1
+proov 2: kustutasin proov1 ära
